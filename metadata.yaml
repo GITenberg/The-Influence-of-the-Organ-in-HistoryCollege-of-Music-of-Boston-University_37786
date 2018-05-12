@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39063
     wikipedia: http://en.wikipedia.org/wiki/Dudley_Buck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37786#The-Influence-of-the-Organ-in-HistoryCollege-of-Music-of-Boston-University
 gutenberg_issued: '2011-10-18'
 gutenberg_type: Text
 identifiers:
