@@ -1,0 +1,28 @@
+_repo: The-Influence-of-the-Organ-in-HistoryCollege-of-Music-of-Boston-University_37786
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buck, Dudley
+    birthdate: 1839
+    deathdate: 1909
+    gutenberg_agent_id: '39063'
+    url: http://www.gutenberg.org/2009/agents/39063
+    wikipedia: http://en.wikipedia.org/wiki/Dudley_Buck
+description: ''
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Organ (Musical instrument) -- History'
+title: "The Influence of the Organ in History\r\nInaugural Lecture of the Department\
+  \ of the Organ in the College of Music of Boston University"
+url: http://www.gutenberg.org/ebooks/37786
